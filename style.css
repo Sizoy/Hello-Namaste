@@ -12,7 +12,7 @@ height2 = 420px
     box-sizing: border-box;
 }
 
-footer {
+header {
     width: 42vw;
     height: 17.5vh;
     margin: 5vh auto 10vh auto;
@@ -25,14 +25,14 @@ b:nth-child(1) {
     font-size: 9px;
     letter-spacing: 0.2vw;
 }
-#footer-main-text {
+#header-main-text {
     font-family: "Montserrat", sans-serif;
     font-weight: 700;
     font-size: 34px;
     color: #0ec8cb;
     letter-spacing: 0.5vw;
 }
-#footer-lower-text {
+#header-lower-text {
     font-family: "PT Sans", sans-serif;
     color: #999999;
     font-weight: 500;
